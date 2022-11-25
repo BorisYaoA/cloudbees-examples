@@ -2,11 +2,6 @@ pipeline {
     agent any
     
     stages {
-        stage('Checkout') { 
-            steps {
-                git credentialsId: "" , url: "https://github.com/BorisYaoA/cloudbees-examples.git"
-            }
-        }
         stage('Build') { 
             steps {
                 sh 'mvn -B -DskipTests clean package' 
