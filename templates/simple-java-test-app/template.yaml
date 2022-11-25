@@ -1,5 +1,5 @@
 version: 1
-type: pipeline-template-test
+type: pipeline-template
 
 name: Java Test App Job
 description: Simple Java Test App
