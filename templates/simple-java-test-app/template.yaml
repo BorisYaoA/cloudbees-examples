@@ -1,5 +1,5 @@
 version: 1
 type: pipeline-template
 
-name: Java Test App Job
+name: Java Test App Job update
 description: Simple Java Test App
