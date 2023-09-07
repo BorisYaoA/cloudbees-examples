@@ -1,5 +1,5 @@
 version: 1
-type: security-test
+type: security
 
 name: customerPortalFrontendTeamCatalog
 displayName: Shared Template Catalog for Teams Working on the Customer Portal
