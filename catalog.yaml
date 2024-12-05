@@ -1,6 +1,6 @@
 id: my-pipeline-catalog
 description: A catalog of reusable pipeline templates.
-version: 1.0
+version: 1
 displayName: My Pipeline Catalog
 
 templates:
