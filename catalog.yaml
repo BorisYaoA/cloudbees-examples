@@ -1,10 +1,5 @@
-id: my-pipeline-catalog
-description: A catalog of reusable pipeline templates.
 version: 1
-displayName: My Pipeline Catalog
+type: pipeline-template-catalog
 
-templates:
-  - id: simple-java-maven-app
-    name: Build and Test
-    description: A pipeline for building and testing applications.
-    templatePath: templates/simple-java-maven-app/template.yaml
+name: customerPortalFrontendTeamCatalog
+displayName: Shared Template Catalog for Teams Working on the Customer Portal
