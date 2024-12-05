@@ -4,7 +4,7 @@ version: 1.0
 displayName: My Pipeline Catalog
 
 templates:
-  - id: build-and-test
+  - id: simple-java-maven-app
     name: Build and Test
     description: A pipeline for building and testing applications.
-    templatePath: templates/build-and-test.yml
+    templatePath: templates/simple-java-maven-app/template.yaml
