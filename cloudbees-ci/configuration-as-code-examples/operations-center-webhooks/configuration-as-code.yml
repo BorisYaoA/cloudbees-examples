@@ -1,9 +1,0 @@
-jenkins:
-  numExecutors: 0
-controllerLifecycleNotifications:
-  enabled: true
-  webhookUrl: 'https://example.com'
-  ignoreTlsConnectionErrors: true
-  authenticator:
-    mTLS:
-      clientCertificateCredentialId: 'id'

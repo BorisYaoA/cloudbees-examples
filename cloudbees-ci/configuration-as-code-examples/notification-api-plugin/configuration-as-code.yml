@@ -1,3 +1,0 @@
-notificationConfiguration:
-  enabled: true
-  router: "localOnlyFallback"
